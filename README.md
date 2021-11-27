@@ -4,3 +4,6 @@ The center interface for Troll operations, featuring a TI Tiva FTW
 
 - ...!!
 
+# Sensors
+
+- Observed RSSI's
